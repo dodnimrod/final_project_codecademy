@@ -1,0 +1,903 @@
+﻿season,matchday,home team,away team,home attendance,away attendance,total attendance,winning team
+2016-2017,1,bnei yehuda tel aviv,bnei sakhnin,2070,154,2224,D
+2016-2017,1,hapoel ashqelon,hapoel haifa,1997,247,2244,H
+2016-2017,1,ironi kiryat shmona,ashdod fc,900,30,930,H
+2016-2017,1,hapoel beer sheva,hapoel raanana,12350,50,12400,H
+2016-2017,1,maccabi petah tikva,beitar jerusalem,1500,4500,6000,D
+2016-2017,1,maccabi tel aviv,hapoel kfar sava,6066,286,6352,H
+2016-2017,1,maccabi haifa,hapoel tel aviv,24854,2900,27754,H
+2016-2017,2,hapoel haifa,bnei yehuda tel aviv,0,0,0,H
+2016-2017,2,ashdod fc,maccabi tel aviv,0,0,0,A
+2016-2017,2,bnei sakhnin,maccabi haifa,0,0,0,H
+2016-2017,2,hapoel tel aviv,hapoel beer sheva,0,0,0,D
+2016-2017,2,beitar jerusalem,ironi kiryat shmona,0,0,0,D
+2016-2017,2,hapoel kfar sava,hapoel ashqelon,0,0,0,D
+2016-2017,2,hapoel raanana,maccabi petah tikva,0,0,0,A
+2016-2017,3,ironi kiryat shmona,hapoel raanana,1020,50,1070,D
+2016-2017,3,bnei yehuda tel aviv,maccabi haifa,2300,4700,7000,D
+2016-2017,3,hapoel haifa,hapoel kfar sava,2268,232,2500,A
+2016-2017,3,hapoel beer sheva,bnei sakhnin,15000,420,15420,H
+2016-2017,3,hapoel ashqelon,ashdod fc,2180,150,2330,D
+2016-2017,3,maccabi tel aviv,beitar jerusalem,10700,1100,11800,D
+2016-2017,3,maccabi petah tikva,hapoel tel aviv,800,1700,2500,H
+2016-2017,4,hapoel tel aviv,ironi kiryat shmona,6064,127,6191,D
+2016-2017,4,ashdod fc,hapoel haifa,750,80,830,A
+2016-2017,4,hapoel kfar sava,bnei yehuda tel aviv,1276,452,1728,A
+2016-2017,4,beitar jerusalem,hapoel ashqelon,6000,300,6300,H
+2016-2017,4,bnei sakhnin,maccabi petah tikva,2000,50,2050,A
+2016-2017,4,hapoel raanana,maccabi tel aviv,700,2300,3000,A
+2016-2017,4,maccabi haifa,hapoel beer sheva,24023,1600,25623,H
+2016-2017,5,ironi kiryat shmona,bnei sakhnin,1100,200,1300,D
+2016-2017,5,hapoel kfar sava,ashdod fc,1512,117,1629,H
+2016-2017,5,hapoel ashqelon,hapoel raanana,1670,50,1720,D
+2016-2017,5,hapoel haifa,beitar jerusalem,2000,3200,5200,H
+2016-2017,5,bnei yehuda tel aviv,hapoel beer sheva,1800,2060,3860,A
+2016-2017,5,maccabi tel aviv,hapoel tel aviv,11200,1200,12400,H
+2016-2017,5,maccabi petah tikva,maccabi haifa,1500,5600,7100,D
+2016-2017,6,hapoel raanana,hapoel haifa,0,0,0,H
+2016-2017,6,bnei sakhnin,maccabi tel aviv,0,0,0,A
+2016-2017,6,maccabi haifa,ironi kiryat shmona,0,0,0,D
+2016-2017,6,hapoel beer sheva,maccabi petah tikva,0,0,0,H
+2016-2017,6,ashdod fc,bnei yehuda tel aviv,0,0,0,D
+2016-2017,6,hapoel tel aviv,hapoel ashqelon,0,0,0,H
+2016-2017,6,beitar jerusalem,hapoel kfar sava,0,0,0,H
+2016-2017,7,hapoel haifa,hapoel tel aviv,0,0,0,A
+2016-2017,7,hapoel kfar sava,hapoel raanana,0,0,0,A
+2016-2017,7,ironi kiryat shmona,hapoel beer sheva,0,0,0,A
+2016-2017,7,maccabi tel aviv,maccabi haifa,0,0,0,A
+2016-2017,7,bnei yehuda tel aviv,maccabi petah tikva,0,0,0,A
+2016-2017,7,ashdod fc,beitar jerusalem,0,0,0,D
+2016-2017,7,hapoel ashqelon,bnei sakhnin,0,0,0,A
+2016-2017,8,bnei sakhnin,hapoel haifa,1400,100,1500,H
+2016-2017,8,hapoel tel aviv,hapoel kfar sava,6300,500,6800,D
+2016-2017,8,hapoel raanana,ashdod fc,300,138,438,D
+2016-2017,8,maccabi haifa,hapoel ashqelon,19065,459,19524,H
+2016-2017,8,maccabi petah tikva,ironi kiryat shmona,1600,100,1700,H
+2016-2017,8,hapoel beer sheva,maccabi tel aviv,14000,1600,15600,H
+2016-2017,8,beitar jerusalem,bnei yehuda tel aviv,6000,200,6200,D
+2016-2017,9,bnei yehuda tel aviv,ironi kiryat shmona,1712,100,1812,A
+2016-2017,9,ashdod fc,hapoel tel aviv,1200,1378,2578,H
+2016-2017,9,beitar jerusalem,hapoel raanana,4500,50,4550,H
+2016-2017,9,hapoel haifa,maccabi haifa,5200,20000,25200,D
+2016-2017,9,hapoel ashqelon,hapoel beer sheva,2563,1937,4500,A
+2016-2017,9,maccabi tel aviv,maccabi petah tikva,8725,200,8925,D
+2016-2017,9,hapoel kfar sava,bnei sakhnin,900,560,1460,H
+2016-2017,10,bnei sakhnin,ashdod fc,1500,50,1550,A
+2016-2017,10,maccabi petah tikva,hapoel ashqelon,950,150,1100,D
+2016-2017,10,maccabi haifa,hapoel kfar sava,23524,300,23824,H
+2016-2017,10,hapoel beer sheva,hapoel haifa,15122,150,15272,H
+2016-2017,10,hapoel raanana,bnei yehuda tel aviv,450,200,650,H
+2016-2017,10,ironi kiryat shmona,maccabi tel aviv,1800,1700,3500,A
+2016-2017,10,beitar jerusalem,hapoel tel aviv,18300,1400,19700,D
+2016-2017,11,hapoel raanana,hapoel tel aviv,1200,1400,2600,D
+2016-2017,11,hapoel haifa,maccabi petah tikva,2000,80,2080,H
+2016-2017,11,ashdod fc,maccabi haifa,1600,4000,5600,D
+2016-2017,11,ironi kiryat shmona,hapoel ashqelon,1000,60,1060,H
+2016-2017,11,hapoel kfar sava,hapoel beer sheva,2033,1762,3795,A
+2016-2017,11,bnei yehuda tel aviv,maccabi tel aviv,3400,2000,5400,H
+2016-2017,11,beitar jerusalem,bnei sakhnin,7600,40,7640,A
+2016-2017,12,ironi kiryat shmona,hapoel haifa,900,50,950,H
+2016-2017,12,maccabi petah tikva,hapoel kfar sava,570,240,810,D
+2016-2017,12,maccabi tel aviv,hapoel ashqelon,6182,60,6242,D
+2016-2017,12,hapoel beer sheva,ashdod fc,14900,300,15200,H
+2016-2017,12,bnei sakhnin,hapoel raanana,1980,20,2000,D
+2016-2017,12,bnei yehuda tel aviv,hapoel tel aviv,1500,1250,2750,A
+2016-2017,12,maccabi haifa,beitar jerusalem,26314,2700,29014,A
+2016-2017,13,hapoel tel aviv,bnei sakhnin,7650,350,8000,D
+2016-2017,13,hapoel kfar sava,ironi kiryat shmona,1425,100,1525,D
+2016-2017,13,hapoel ashqelon,bnei yehuda tel aviv,1800,315,2115,H
+2016-2017,13,hapoel raanana,maccabi haifa,1000,3000,4000,D
+2016-2017,13,ashdod fc,maccabi petah tikva,380,50,430,D
+2016-2017,13,hapoel haifa,maccabi tel aviv,2300,1000,3300,A
+2016-2017,13,beitar jerusalem,hapoel beer sheva,7200,1100,8300,A
+2016-2017,14,hapoel kfar sava,maccabi tel aviv,2084,1766,3850,D
+2016-2017,14,ashdod fc,ironi kiryat shmona,568,35,603,D
+2016-2017,14,bnei sakhnin,bnei yehuda tel aviv,2030,80,2110,D
+2016-2017,14,beitar jerusalem,maccabi petah tikva,4150,50,4200,D
+2016-2017,14,hapoel haifa,hapoel ashqelon,1200,100,1300,H
+2016-2017,14,hapoel raanana,hapoel beer sheva,850,2000,2850,H
+2016-2017,14,hapoel tel aviv,maccabi haifa,5000,1200,6200,A
+2016-2017,15,bnei yehuda tel aviv,hapoel haifa,1395,189,1584,D
+2016-2017,15,hapoel ashqelon,hapoel kfar sava,900,100,1000,D
+2016-2017,15,maccabi tel aviv,ashdod fc,6128,65,6193,H
+2016-2017,15,ironi kiryat shmona,beitar jerusalem,1000,1500,2500,H
+2016-2017,15,maccabi petah tikva,hapoel raanana,600,38,638,H
+2016-2017,15,hapoel beer sheva,hapoel tel aviv,14500,1600,16100,D
+2016-2017,15,maccabi haifa,bnei sakhnin,16251,876,17127,A
+2016-2017,16,hapoel kfar sava,hapoel haifa,0,0,0,A
+2016-2017,16,maccabi haifa,bnei yehuda tel aviv,0,0,0,D
+2016-2017,16,beitar jerusalem,maccabi tel aviv,0,0,0,H
+2016-2017,16,bnei sakhnin,hapoel beer sheva,0,0,0,D
+2016-2017,16,ashdod fc,hapoel ashqelon,0,0,0,H
+2016-2017,16,hapoel tel aviv,maccabi petah tikva,0,0,0,A
+2016-2017,16,hapoel raanana,ironi kiryat shmona,0,0,0,A
+2016-2017,17,hapoel haifa,ashdod fc,0,0,0,A
+2016-2017,17,hapoel ashqelon,beitar jerusalem,0,0,0,D
+2016-2017,17,maccabi tel aviv,hapoel raanana,0,0,0,H
+2016-2017,17,hapoel beer sheva,maccabi haifa,0,0,0,H
+2016-2017,17,ironi kiryat shmona,hapoel tel aviv,0,0,0,H
+2016-2017,17,maccabi petah tikva,bnei sakhnin,0,0,0,D
+2016-2017,17,bnei yehuda tel aviv,hapoel kfar sava,0,0,0,D
+2016-2017,18,ashdod fc,hapoel kfar sava,550,110,660,D
+2016-2017,18,hapoel raanana,hapoel ashqelon,470,93,563,A
+2016-2017,18,maccabi haifa,maccabi petah tikva,13514,109,13623,A
+2016-2017,18,hapoel beer sheva,bnei yehuda tel aviv,13380,170,13550,H
+2016-2017,18,beitar jerusalem,hapoel haifa,3460,40,3500,H
+2016-2017,18,bnei sakhnin,ironi kiryat shmona,3000,100,3100,H
+2016-2017,18,hapoel tel aviv,maccabi tel aviv,6200,1100,7300,A
+2016-2017,19,ironi kiryat shmona,maccabi haifa,1000,1500,2500,H
+2016-2017,19,hapoel haifa,hapoel raanana,2000,50,2050,H
+2016-2017,19,hapoel ashqelon,hapoel tel aviv,1970,1940,3910,A
+2016-2017,19,maccabi petah tikva,hapoel beer sheva,1800,5000,6800,D
+2016-2017,19,bnei yehuda tel aviv,ashdod fc,1910,90,2000,H
+2016-2017,19,hapoel kfar sava,beitar jerusalem,1240,1650,2890,A
+2016-2017,19,maccabi tel aviv,bnei sakhnin,8274,1100,9374,H
+2016-2017,20,maccabi petah tikva,bnei yehuda tel aviv,1000,500,1500,H
+2016-2017,20,hapoel raanana,hapoel kfar sava,390,260,650,H
+2016-2017,20,hapoel beer sheva,ironi kiryat shmona,13110,50,13160,H
+2016-2017,20,beitar jerusalem,ashdod fc,2200,72,2272,D
+2016-2017,20,bnei sakhnin,hapoel ashqelon,1700,50,1750,H
+2016-2017,20,hapoel tel aviv,hapoel haifa,4800,550,5350,D
+2016-2017,20,maccabi haifa,maccabi tel aviv,22824,2800,25624,D
+2016-2017,21,ironi kiryat shmona,maccabi petah tikva,684,136,820,A
+2016-2017,21,hapoel haifa,bnei sakhnin,2800,1300,4100,A
+2016-2017,21,bnei yehuda tel aviv,beitar jerusalem,2200,3400,5600,D
+2016-2017,21,maccabi tel aviv,hapoel beer sheva,11110,1240,12350,H
+2016-2017,21,ashdod fc,hapoel raanana,1300,17,1317,A
+2016-2017,21,hapoel kfar sava,hapoel tel aviv,1277,1861,3138,D
+2016-2017,21,hapoel ashqelon,maccabi haifa,2350,2000,4350,A
+2016-2017,22,maccabi haifa,hapoel haifa,26600,1100,27700,A
+2016-2017,22,ironi kiryat shmona,bnei yehuda tel aviv,700,170,870,A
+2016-2017,22,hapoel beer sheva,hapoel ashqelon,14550,150,14700,H
+2016-2017,22,hapoel raanana,beitar jerusalem,1150,2750,3900,A
+2016-2017,22,bnei sakhnin,hapoel kfar sava,2700,30,2730,H
+2016-2017,22,hapoel tel aviv,ashdod fc,4507,100,4607,H
+2016-2017,22,maccabi petah tikva,maccabi tel aviv,1600,5900,7500,A
+2016-2017,23,hapoel kfar sava,maccabi haifa,1800,2600,4400,A
+2016-2017,23,bnei yehuda tel aviv,hapoel raanana,4120,80,4200,A
+2016-2017,23,ashdod fc,bnei sakhnin,725,282,1007,D
+2016-2017,23,maccabi tel aviv,ironi kiryat shmona,10730,170,10900,H
+2016-2017,23,hapoel ashqelon,maccabi petah tikva,1266,90,1356,A
+2016-2017,23,hapoel haifa,hapoel beer sheva,3350,1050,4400,D
+2016-2017,23,hapoel tel aviv,beitar jerusalem,7319,892,8211,A
+2016-2017,24,hapoel tel aviv,hapoel raanana,6880,120,7000,D
+2016-2017,24,hapoel ashqelon,ironi kiryat shmona,690,60,750,D
+2016-2017,24,maccabi haifa,ashdod fc,16094,60,16154,A
+2016-2017,24,maccabi tel aviv,bnei yehuda tel aviv,10629,400,11029,H
+2016-2017,24,maccabi petah tikva,hapoel haifa,1400,300,1700,H
+2016-2017,24,bnei sakhnin,beitar jerusalem,7480,0,7480,A
+2016-2017,24,hapoel beer sheva,hapoel kfar sava,13500,150,13650,H
+2016-2017,25,hapoel haifa,ironi kiryat shmona,2016,120,2136,A
+2016-2017,25,hapoel raanana,bnei sakhnin,500,500,1000,A
+2016-2017,25,hapoel tel aviv,bnei yehuda tel aviv,6900,1090,7990,A
+2016-2017,25,ashdod fc,hapoel beer sheva,1200,4000,5200,A
+2016-2017,25,hapoel kfar sava,maccabi petah tikva,1000,200,1200,A
+2016-2017,25,hapoel ashqelon,maccabi tel aviv,3100,2000,5100,A
+2016-2017,25,beitar jerusalem,maccabi haifa,11259,2483,13742,A
+2016-2017,26,maccabi petah tikva,ashdod fc,2200,30,2230,A
+2016-2017,26,ironi kiryat shmona,hapoel kfar sava,1800,50,1850,A
+2016-2017,26,bnei sakhnin,hapoel tel aviv,3750,750,4500,D
+2016-2017,26,maccabi haifa,hapoel raanana,18570,60,18630,H
+2016-2017,26,bnei yehuda tel aviv,hapoel ashqelon,2000,200,2200,D
+2016-2017,26,maccabi tel aviv,hapoel haifa,9320,180,9500,H
+2016-2017,26,hapoel beer sheva,beitar jerusalem,13600,1600,15200,H
+2016-2017,27,ironi kiryat shmona,hapoel tel aviv,550,950,1500,A
+2016-2017,27,hapoel haifa,hapoel ashqelon,1425,75,1500,A
+2016-2017,27,maccabi tel aviv,bnei sakhnin,9991,500,10491,H
+2016-2017,27,maccabi petah tikva,beitar jerusalem,1200,3000,4200,A
+2016-2017,27,hapoel raanana,bnei yehuda tel aviv,250,320,570,A
+2016-2017,27,hapoel beer sheva,maccabi haifa,13800,1700,15500,H
+2016-2017,27,ashdod fc,hapoel kfar sava,1100,200,1300,D
+2016-2017,28,ironi kiryat shmona,hapoel haifa,0,0,0,A
+2016-2017,28,hapoel beer sheva,maccabi tel aviv,0,0,0,H
+2016-2017,28,maccabi haifa,beitar jerusalem,0,0,0,H
+2016-2017,28,bnei sakhnin,maccabi petah tikva,0,0,0,H
+2016-2017,28,hapoel ashqelon,ashdod fc,0,0,0,D
+2016-2017,28,hapoel tel aviv,bnei yehuda tel aviv,0,0,0,H
+2016-2017,28,hapoel kfar sava,hapoel raanana,0,0,0,A
+2016-2017,29,hapoel haifa,hapoel tel aviv,2800,3900,6700,D
+2016-2017,29,hapoel raanana,hapoel ashqelon,360,160,520,A
+2016-2017,29,bnei yehuda tel aviv,hapoel kfar sava,2350,300,2650,H
+2016-2017,29,beitar jerusalem,bnei sakhnin,3500,20,3520,H
+2016-2017,29,ashdod fc,ironi kiryat shmona,440,10,450,D
+2016-2017,29,maccabi petah tikva,hapoel beer sheva,1800,7500,9300,A
+2016-2017,29,maccabi tel aviv,maccabi haifa,10529,1240,11769,H
+2016-2017,30,hapoel haifa,ashdod fc,0,0,0,D
+2016-2017,30,maccabi tel aviv,maccabi petah tikva,0,0,0,H
+2016-2017,30,hapoel beer sheva,beitar jerusalem,0,0,0,H
+2016-2017,30,maccabi haifa,bnei sakhnin,0,0,0,A
+2016-2017,30,hapoel tel aviv,hapoel kfar sava,0,0,0,H
+2016-2017,30,ironi kiryat shmona,hapoel raanana,0,0,0,A
+2016-2017,30,hapoel ashqelon,bnei yehuda tel aviv,0,0,0,H
+2016-2017,31,hapoel raanana,hapoel haifa,0,0,0,A
+2016-2017,31,bnei yehuda tel aviv,ironi kiryat shmona,0,0,0,A
+2016-2017,31,ashdod fc,hapoel tel aviv,0,0,0,H
+2016-2017,31,hapoel kfar sava,hapoel ashqelon,0,0,0,H
+2016-2017,31,maccabi petah tikva,maccabi haifa,0,0,0,A
+2016-2017,31,beitar jerusalem,maccabi tel aviv,0,0,0,D
+2016-2017,31,bnei sakhnin,hapoel beer sheva,0,0,0,A
+2016-2017,32,hapoel haifa,bnei yehuda tel aviv,0,0,0,D
+2016-2017,32,bnei sakhnin,maccabi tel aviv,0,0,0,A
+2016-2017,32,hapoel tel aviv,hapoel ashqelon,0,0,0,D
+2016-2017,32,ashdod fc,hapoel raanana,0,0,0,D
+2016-2017,32,maccabi haifa,hapoel beer sheva,0,0,0,A
+2016-2017,32,beitar jerusalem,maccabi petah tikva,0,0,0,H
+2016-2017,32,ironi kiryat shmona,hapoel kfar sava,0,0,0,A
+2016-2017,33,hapoel kfar sava,hapoel haifa,0,0,0,H
+2016-2017,33,hapoel ashqelon,ironi kiryat shmona,0,0,0,H
+2016-2017,33,maccabi petah tikva,bnei sakhnin,0,0,0,H
+2016-2017,33,hapoel raanana,hapoel tel aviv,0,0,0,D
+2016-2017,33,bnei yehuda tel aviv,ashdod fc,0,0,0,H
+2016-2017,33,maccabi tel aviv,hapoel beer sheva,0,0,0,A
+2016-2017,33,beitar jerusalem,maccabi haifa,0,0,0,H
+2016-2017,34,bnei sakhnin,beitar jerusalem,0,0,0,A
+2016-2017,34,hapoel beer sheva,maccabi petah tikva,0,0,0,D
+2016-2017,34,maccabi haifa,maccabi tel aviv,0,0,0,A
+2016-2017,35,beitar jerusalem,hapoel beer sheva,0,0,0,D
+2016-2017,35,maccabi petah tikva,maccabi tel aviv,0,0,0,H
+2016-2017,35,bnei sakhnin,maccabi haifa,0,0,0,H
+2016-2017,36,hapoel beer sheva,bnei sakhnin,0,0,0,H
+2016-2017,36,maccabi tel aviv,beitar jerusalem,0,0,0,A
+2016-2017,36,maccabi haifa,maccabi petah tikva,0,0,0,D
+2017-2018,1,ashdod fc,maccabi petah tikva,750,200,950,A
+2017-2018,1,hapoel raanana,ironi kiryat shmona,570,20,590,D
+2017-2018,1,hapoel haifa,hapoel ashqelon,2360,140,2500,H
+2017-2018,1,hapoel beer sheva,maccabi netanya,13563,1223,14786,D
+2017-2018,1,hapoel acre,bnei sakhnin,450,350,800,A
+2017-2018,1,maccabi tel aviv,beitar jerusalem,10201,1124,11325,A
+2017-2018,1,bnei yehuda tel aviv,maccabi haifa,2000,5500,7500,H
+2017-2018,2,bnei sakhnin,hapoel raanana,620,30,650,H
+2017-2018,2,hapoel ashqelon,bnei yehuda tel aviv,1397,798,2195,D
+2017-2018,2,maccabi petah tikva,hapoel haifa,2050,620,2670,A
+2017-2018,2,maccabi netanya,hapoel acre,4294,79,4373,D
+2017-2018,2,ironi kiryat shmona,maccabi tel aviv,250,1800,2050,A
+2017-2018,2,maccabi haifa,hapoel beer sheva,25180,2000,27180,H
+2017-2018,2,beitar jerusalem,ashdod fc,8760,240,9000,H
+2017-2018,3,hapoel haifa,bnei yehuda tel aviv,0,0,0,H
+2017-2018,3,ashdod fc,ironi kiryat shmona,0,0,0,A
+2017-2018,3,maccabi tel aviv,bnei sakhnin,0,0,0,H
+2017-2018,3,hapoel beer sheva,hapoel ashqelon,0,0,0,H
+2017-2018,3,hapoel acre,maccabi haifa,0,0,0,H
+2017-2018,3,maccabi petah tikva,beitar jerusalem,0,0,0,A
+2017-2018,3,hapoel raanana,maccabi netanya,0,0,0,A
+2017-2018,4,beitar jerusalem,hapoel haifa,0,0,0,D
+2017-2018,4,hapoel ashqelon,hapoel acre,0,0,0,H
+2017-2018,4,maccabi netanya,maccabi tel aviv,0,0,0,A
+2017-2018,4,ironi kiryat shmona,maccabi petah tikva,0,0,0,H
+2017-2018,4,maccabi haifa,hapoel raanana,0,0,0,H
+2017-2018,4,bnei yehuda tel aviv,hapoel beer sheva,0,0,0,A
+2017-2018,4,bnei sakhnin,ashdod fc,0,0,0,D
+2017-2018,5,hapoel haifa,hapoel beer sheva,0,0,0,D
+2017-2018,5,ashdod fc,maccabi netanya,0,0,0,A
+2017-2018,5,maccabi tel aviv,maccabi haifa,0,0,0,D
+2017-2018,5,hapoel raanana,hapoel ashqelon,0,0,0,A
+2017-2018,5,hapoel acre,bnei yehuda tel aviv,0,0,0,D
+2017-2018,5,beitar jerusalem,ironi kiryat shmona,0,0,0,D
+2017-2018,5,maccabi petah tikva,bnei sakhnin,0,0,0,H
+2017-2018,6,ironi kiryat shmona,hapoel haifa,0,0,0,A
+2017-2018,6,maccabi haifa,ashdod fc,0,0,0,H
+2017-2018,6,hapoel ashqelon,maccabi tel aviv,0,0,0,D
+2017-2018,6,bnei sakhnin,beitar jerusalem,0,0,0,H
+2017-2018,6,maccabi netanya,maccabi petah tikva,0,0,0,H
+2017-2018,6,bnei yehuda tel aviv,hapoel raanana,0,0,0,H
+2017-2018,6,hapoel beer sheva,hapoel acre,0,0,0,H
+2017-2018,7,maccabi petah tikva,maccabi haifa,1500,5500,7000,D
+2017-2018,7,hapoel haifa,hapoel acre,4281,159,4440,H
+2017-2018,7,ashdod fc,hapoel ashqelon,870,830,1700,D
+2017-2018,7,hapoel raanana,hapoel beer sheva,526,2350,2876,A
+2017-2018,7,ironi kiryat shmona,bnei sakhnin,850,270,1120,D
+2017-2018,7,maccabi tel aviv,bnei yehuda tel aviv,8536,300,8836,H
+2017-2018,7,beitar jerusalem,maccabi netanya,10467,2528,12995,H
+2017-2018,8,bnei yehuda tel aviv,ashdod fc,1530,70,1600,A
+2017-2018,8,hapoel acre,hapoel raanana,470,30,500,A
+2017-2018,8,maccabi netanya,ironi kiryat shmona,5100,100,5200,H
+2017-2018,8,maccabi haifa,beitar jerusalem,24357,3757,28114,A
+2017-2018,8,hapoel ashqelon,maccabi petah tikva,1896,65,1961,A
+2017-2018,8,bnei sakhnin,hapoel haifa,1500,2300,3800,A
+2017-2018,8,hapoel beer sheva,maccabi tel aviv,13910,1590,15500,H
+2017-2018,9,bnei sakhnin,maccabi netanya,700,1300,2000,D
+2017-2018,9,hapoel haifa,hapoel raanana,5197,66,5263,H
+2017-2018,9,ironi kiryat shmona,maccabi haifa,800,1600,2400,H
+2017-2018,9,beitar jerusalem,hapoel ashqelon,8607,295,8902,H
+2017-2018,9,maccabi tel aviv,hapoel acre,6200,116,6316,H
+2017-2018,9,ashdod fc,hapoel beer sheva,1400,3300,4700,A
+2017-2018,9,maccabi petah tikva,bnei yehuda tel aviv,700,247,947,A
+2017-2018,10,hapoel acre,ashdod fc,535,15,550,H
+2017-2018,10,maccabi netanya,hapoel haifa,9080,2420,11500,H
+2017-2018,10,bnei yehuda tel aviv,beitar jerusalem,1500,7040,8540,H
+2017-2018,10,maccabi petah tikva,hapoel beer sheva,1200,2350,3550,A
+2017-2018,10,hapoel raanana,maccabi tel aviv,750,1600,2350,A
+2017-2018,10,maccabi haifa,bnei sakhnin,15039,1200,16239,H
+2017-2018,10,hapoel ashqelon,ironi kiryat shmona,1600,25,1625,D
+2017-2018,11,bnei sakhnin,hapoel ashqelon,800,200,1000,H
+2017-2018,11,ironi kiryat shmona,bnei yehuda tel aviv,600,170,770,H
+2017-2018,11,hapoel acre,maccabi petah tikva,830,25,855,A
+2017-2018,11,maccabi netanya,maccabi haifa,10729,1750,12479,D
+2017-2018,11,ashdod fc,hapoel raanana,1190,10,1200,A
+2017-2018,11,hapoel haifa,maccabi tel aviv,7400,3000,10400,D
+2017-2018,11,beitar jerusalem,hapoel beer sheva,17120,4300,21420,D
+2017-2018,12,maccabi tel aviv,ashdod fc,10057,50,10107,D
+2017-2018,12,bnei yehuda tel aviv,bnei sakhnin,1300,300,1600,H
+2017-2018,12,hapoel ashqelon,maccabi netanya,1510,1300,2810,D
+2017-2018,12,hapoel acre,beitar jerusalem,900,3200,4100,A
+2017-2018,12,hapoel raanana,maccabi petah tikva,255,59,314,D
+2017-2018,12,hapoel beer sheva,ironi kiryat shmona,13750,50,13800,H
+2017-2018,12,hapoel haifa,maccabi haifa,9200,14547,23747,H
+2017-2018,13,ashdod fc,hapoel haifa,650,930,1580,D
+2017-2018,13,maccabi netanya,bnei yehuda tel aviv,5226,774,6000,A
+2017-2018,13,maccabi haifa,hapoel ashqelon,14417,159,14576,D
+2017-2018,13,beitar jerusalem,hapoel raanana,6650,50,6700,H
+2017-2018,13,ironi kiryat shmona,hapoel acre,650,11,661,H
+2017-2018,13,bnei sakhnin,hapoel beer sheva,600,800,1400,A
+2017-2018,13,maccabi petah tikva,maccabi tel aviv,1000,2500,3500,D
+2017-2018,14,maccabi petah tikva,ashdod fc,980,40,1020,D
+2017-2018,14,bnei sakhnin,hapoel acre,750,200,950,H
+2017-2018,14,hapoel ashqelon,hapoel haifa,1795,350,2145,D
+2017-2018,14,maccabi haifa,bnei yehuda tel aviv,16100,845,16945,A
+2017-2018,14,ironi kiryat shmona,hapoel raanana,580,20,600,A
+2017-2018,14,maccabi netanya,hapoel beer sheva,6500,1900,8400,H
+2017-2018,14,beitar jerusalem,maccabi tel aviv,17715,3163,20878,A
+2017-2018,15,hapoel acre,maccabi netanya,350,950,1300,A
+2017-2018,15,bnei yehuda tel aviv,hapoel ashqelon,2180,270,2450,H
+2017-2018,15,hapoel haifa,maccabi petah tikva,4201,49,4250,H
+2017-2018,15,maccabi tel aviv,ironi kiryat shmona,10782,100,10882,H
+2017-2018,15,hapoel raanana,bnei sakhnin,200,450,650,D
+2017-2018,15,ashdod fc,beitar jerusalem,300,2700,3000,A
+2017-2018,15,hapoel beer sheva,maccabi haifa,14400,1600,16000,H
+2017-2018,16,bnei yehuda tel aviv,hapoel haifa,3020,1180,4200,A
+2017-2018,16,maccabi netanya,hapoel raanana,5530,70,5600,D
+2017-2018,16,maccabi haifa,hapoel acre,12339,100,12439,A
+2017-2018,16,beitar jerusalem,maccabi petah tikva,8000,25,8025,H
+2017-2018,16,ironi kiryat shmona,ashdod fc,425,20,445,A
+2017-2018,16,hapoel ashqelon,hapoel beer sheva,1957,1904,3861,A
+2017-2018,16,bnei sakhnin,maccabi tel aviv,400,1300,1700,A
+2017-2018,17,hapoel acre,hapoel ashqelon,444,275,719,A
+2017-2018,17,ashdod fc,bnei sakhnin,690,110,800,A
+2017-2018,17,hapoel haifa,beitar jerusalem,5504,6146,11650,A
+2017-2018,17,maccabi petah tikva,ironi kiryat shmona,750,50,800,H
+2017-2018,17,hapoel beer sheva,bnei yehuda tel aviv,15150,350,15500,D
+2017-2018,17,maccabi tel aviv,maccabi netanya,9470,1300,10770,H
+2017-2018,17,hapoel raanana,maccabi haifa,500,1200,1700,A
+2017-2018,18,bnei yehuda tel aviv,hapoel acre,1590,50,1640,H
+2017-2018,18,bnei sakhnin,maccabi petah tikva,800,50,850,A
+2017-2018,18,maccabi netanya,ashdod fc,4197,78,4275,D
+2017-2018,18,ironi kiryat shmona,beitar jerusalem,1250,2300,3550,D
+2017-2018,18,hapoel ashqelon,hapoel raanana,1162,16,1178,A
+2017-2018,18,hapoel beer sheva,hapoel haifa,13520,625,14145,D
+2017-2018,18,maccabi haifa,maccabi tel aviv,19689,2783,22472,A
+2017-2018,19,hapoel haifa,ironi kiryat shmona,4610,90,4700,A
+2017-2018,19,hapoel raanana,bnei yehuda tel aviv,248,592,840,D
+2017-2018,19,ashdod fc,maccabi haifa,1000,1850,2850,D
+2017-2018,19,hapoel acre,hapoel beer sheva,400,700,1100,A
+2017-2018,19,maccabi petah tikva,maccabi netanya,1250,500,1750,D
+2017-2018,19,maccabi tel aviv,hapoel ashqelon,8317,150,8467,H
+2017-2018,19,beitar jerusalem,bnei sakhnin,10937,40,10977,H
+2017-2018,20,hapoel acre,hapoel haifa,500,1100,1600,A
+2017-2018,20,hapoel ashqelon,ashdod fc,725,48,773,A
+2017-2018,20,maccabi haifa,maccabi petah tikva,12067,50,12117,D
+2017-2018,20,hapoel beer sheva,hapoel raanana,12383,8,12391,H
+2017-2018,20,bnei sakhnin,ironi kiryat shmona,380,90,470,A
+2017-2018,20,bnei yehuda tel aviv,maccabi tel aviv,1790,4050,5840,D
+2017-2018,20,maccabi netanya,beitar jerusalem,5600,5100,10700,H
+2017-2018,21,hapoel haifa,bnei sakhnin,4200,500,4700,H
+2017-2018,21,hapoel raanana,hapoel acre,854,25,879,A
+2017-2018,21,ironi kiryat shmona,maccabi netanya,880,650,1530,A
+2017-2018,21,beitar jerusalem,maccabi haifa,8259,2184,10443,H
+2017-2018,21,ashdod fc,bnei yehuda tel aviv,843,375,1218,D
+2017-2018,21,maccabi tel aviv,hapoel beer sheva,11147,1250,12397,H
+2017-2018,21,maccabi petah tikva,hapoel ashqelon,1150,85,1235,H
+2017-2018,22,hapoel raanana,hapoel haifa,450,1150,1600,D
+2017-2018,22,bnei yehuda tel aviv,maccabi petah tikva,1500,600,2100,H
+2017-2018,22,maccabi haifa,ironi kiryat shmona,12000,63,12063,H
+2017-2018,22,hapoel ashqelon,beitar jerusalem,2200,3000,5200,A
+2017-2018,22,maccabi netanya,bnei sakhnin,4391,385,4776,D
+2017-2018,22,hapoel acre,maccabi tel aviv,1000,2200,3200,A
+2017-2018,22,hapoel beer sheva,ashdod fc,14786,100,14886,H
+2017-2018,23,maccabi tel aviv,hapoel raanana,9556,100,9656,A
+2017-2018,23,ashdod fc,hapoel acre,340,60,400,H
+2017-2018,23,bnei sakhnin,maccabi haifa,800,1500,2300,H
+2017-2018,23,hapoel beer sheva,maccabi petah tikva,14153,20,14173,H
+2017-2018,23,ironi kiryat shmona,hapoel ashqelon,250,53,303,H
+2017-2018,23,hapoel haifa,maccabi netanya,3930,1500,5430,H
+2017-2018,23,beitar jerusalem,bnei yehuda tel aviv,30,30,60,H
+2017-2018,24,hapoel raanana,ashdod fc,522,90,612,H
+2017-2018,24,hapoel ashqelon,bnei sakhnin,1270,120,1390,A
+2017-2018,24,maccabi haifa,maccabi netanya,12416,2051,14467,A
+2017-2018,24,maccabi tel aviv,hapoel haifa,10300,1238,11538,H
+2017-2018,24,bnei yehuda tel aviv,ironi kiryat shmona,1050,70,1120,H
+2017-2018,24,hapoel beer sheva,beitar jerusalem,13900,1800,15700,D
+2017-2018,24,maccabi petah tikva,hapoel acre,540,50,590,H
+2017-2018,25,maccabi petah tikva,hapoel raanana,1120,60,1180,H
+2017-2018,25,bnei sakhnin,bnei yehuda tel aviv,850,100,950,D
+2017-2018,25,maccabi netanya,hapoel ashqelon,4650,100,4750,H
+2017-2018,25,ashdod fc,maccabi tel aviv,1200,3800,5000,D
+2017-2018,25,ironi kiryat shmona,hapoel beer sheva,719,441,1160,A
+2017-2018,25,beitar jerusalem,hapoel acre,6000,62,6062,H
+2017-2018,25,maccabi haifa,hapoel haifa,8508,1624,10132,A
+2017-2018,26,bnei yehuda tel aviv,maccabi netanya,1600,1550,3150,A
+2017-2018,26,hapoel haifa,ashdod fc,4900,27,4927,H
+2017-2018,26,hapoel ashqelon,maccabi haifa,1954,1219,3173,D
+2017-2018,26,hapoel beer sheva,bnei sakhnin,14064,400,14464,H
+2017-2018,26,hapoel acre,ironi kiryat shmona,260,40,300,A
+2017-2018,26,hapoel raanana,beitar jerusalem,480,4800,5280,A
+2017-2018,26,maccabi tel aviv,maccabi petah tikva,7985,60,8045,H
+2017-2018,27,maccabi haifa,hapoel acre,6892,50,6942,H
+2017-2018,27,ironi kiryat shmona,hapoel ashqelon,240,50,290,D
+2017-2018,27,bnei sakhnin,ashdod fc,2500,10,2510,H
+2017-2018,27,beitar jerusalem,maccabi netanya,9200,1000,10200,H
+2017-2018,27,maccabi petah tikva,hapoel raanana,1000,40,1040,A
+2017-2018,27,hapoel beer sheva,bnei yehuda tel aviv,14060,300,14360,H
+2017-2018,27,maccabi tel aviv,hapoel haifa,10700,624,11324,A
+2017-2018,28,maccabi netanya,maccabi tel aviv,6000,3900,9900,H
+2017-2018,28,bnei yehuda tel aviv,hapoel haifa,1035,915,1950,H
+2017-2018,28,hapoel beer sheva,beitar jerusalem,14100,1800,15900,H
+2017-2018,28,maccabi petah tikva,ironi kiryat shmona,1000,100,1100,H
+2017-2018,28,hapoel raanana,hapoel acre,270,19,289,D
+2017-2018,28,hapoel ashqelon,bnei sakhnin,980,40,1020,H
+2017-2018,28,ashdod fc,maccabi haifa,360,540,900,H
+2017-2018,29,hapoel haifa,maccabi netanya,2900,1200,4100,D
+2017-2018,29,beitar jerusalem,bnei yehuda tel aviv,6800,70,6870,D
+2017-2018,29,maccabi tel aviv,hapoel beer sheva,11500,1500,13000,A
+2017-2018,29,hapoel acre,ashdod fc,300,100,400,D
+2017-2018,29,ironi kiryat shmona,hapoel raanana,250,25,275,A
+2017-2018,29,maccabi haifa,hapoel ashqelon,7200,126,7326,H
+2017-2018,29,bnei sakhnin,maccabi petah tikva,1180,11,1191,D
+2017-2018,30,hapoel beer sheva,hapoel haifa,15350,550,15900,D
+2017-2018,30,beitar jerusalem,maccabi tel aviv,11000,900,11900,H
+2017-2018,30,bnei yehuda tel aviv,maccabi netanya,1100,1340,2440,A
+2017-2018,30,ironi kiryat shmona,bnei sakhnin,110,40,150,H
+2017-2018,30,maccabi petah tikva,maccabi haifa,1100,1050,2150,A
+2017-2018,30,hapoel ashqelon,hapoel acre,2310,12,2322,A
+2017-2018,30,hapoel raanana,ashdod fc,180,100,280,H
+2017-2018,31,maccabi tel aviv,bnei yehuda tel aviv,4836,200,5036,H
+2017-2018,31,maccabi netanya,hapoel beer sheva,7284,3500,10784,A
+2017-2018,31,hapoel haifa,beitar jerusalem,4200,3500,7700,A
+2017-2018,31,hapoel acre,maccabi petah tikva,250,6,256,H
+2017-2018,31,maccabi haifa,ironi kiryat shmona,8112,50,8162,A
+2017-2018,31,bnei sakhnin,hapoel raanana,635,15,650,A
+2017-2018,31,ashdod fc,hapoel ashqelon,1404,996,2400,H
+2017-2018,32,hapoel haifa,maccabi tel aviv,3100,900,4000,D
+2017-2018,32,maccabi netanya,beitar jerusalem,4600,5900,10500,H
+2017-2018,32,bnei yehuda tel aviv,hapoel beer sheva,1485,5850,7335,D
+2017-2018,32,ironi kiryat shmona,hapoel acre,380,10,390,H
+2017-2018,32,bnei sakhnin,maccabi haifa,400,100,500,D
+2017-2018,32,hapoel raanana,hapoel ashqelon,100,10,110,H
+2017-2018,32,maccabi petah tikva,ashdod fc,425,17,442,H
+2017-2018,33,hapoel haifa,bnei yehuda tel aviv,3950,50,4000,H
+2017-2018,33,beitar jerusalem,hapoel beer sheva,17000,8500,25500,A
+2017-2018,33,maccabi tel aviv,maccabi netanya,5046,1300,6346,H
+2017-2018,33,hapoel acre,bnei sakhnin,200,50,250,A
+2017-2018,33,hapoel ashqelon,maccabi petah tikva,316,30,346,A
+2017-2018,33,maccabi haifa,hapoel raanana,5083,15,5098,H
+2017-2018,33,ashdod fc,ironi kiryat shmona,270,10,280,A
+2017-2018,34,maccabi netanya,hapoel haifa,4395,585,4980,H
+2017-2018,34,bnei yehuda tel aviv,beitar jerusalem,750,550,1300,D
+2017-2018,34,hapoel beer sheva,maccabi tel aviv,14100,1800,15900,A
+2017-2018,35,hapoel haifa,hapoel beer sheva,2450,450,2900,A
+2017-2018,35,maccabi tel aviv,beitar jerusalem,6095,500,6595,H
+2017-2018,35,maccabi netanya,bnei yehuda tel aviv,2750,75,2825,A
+2017-2018,36,beitar jerusalem,hapoel haifa,0,0,0,D
+2017-2018,36,bnei yehuda tel aviv,maccabi tel aviv,0,0,0,A
+2017-2018,36,hapoel beer sheva,maccabi netanya,0,0,0,H
+2018-2019,1,ashdod fc,bnei yehuda tel aviv,505,622,1127,H
+2018-2019,1,hapoel hadera,hapoel tel aviv,780,4470,5250,H
+2018-2019,1,hapoel haifa,maccabi netanya,3362,1643,5005,H
+2018-2019,1,ironi kiryat shmona,hapoel beer sheva,1324,735,2059,D
+2018-2019,1,bnei sakhnin,hapoel raanana,1500,10,1510,D
+2018-2019,1,maccabi tel aviv,maccabi haifa,11000,1350,12350,H
+2018-2019,1,maccabi petah tikva,beitar jerusalem,2000,7500,9500,H
+2018-2019,2,hapoel raanana,ironi kiryat shmona,310,50,360,H
+2018-2019,2,maccabi haifa,ashdod fc,13130,44,13174,H
+2018-2019,2,maccabi netanya,bnei sakhnin,3500,500,4000,D
+2018-2019,2,hapoel tel aviv,hapoel haifa,5409,850,6259,H
+2018-2019,2,bnei yehuda tel aviv,maccabi petah tikva,737,369,1106,D
+2018-2019,2,hapoel beer sheva,maccabi tel aviv,14100,1700,15800,D
+2018-2019,2,beitar jerusalem,hapoel hadera,10050,350,10400,A
+2018-2019,3,maccabi tel aviv,hapoel raanana,10600,124,10724,H
+2018-2019,3,maccabi petah tikva,hapoel hadera,1000,500,1500,D
+2018-2019,3,bnei sakhnin,hapoel tel aviv,2500,1500,4000,D
+2018-2019,3,ashdod fc,hapoel beer sheva,1600,2900,4500,H
+2018-2019,3,ironi kiryat shmona,maccabi netanya,500,200,700,H
+2018-2019,3,bnei yehuda tel aviv,maccabi haifa,1410,4660,6070,D
+2018-2019,3,hapoel haifa,beitar jerusalem,4700,4030,8730,D
+2018-2019,4,hapoel tel aviv,ironi kiryat shmona,5979,80,6059,D
+2018-2019,4,hapoel raanana,ashdod fc,230,101,331,D
+2018-2019,4,maccabi haifa,maccabi petah tikva,14270,60,14330,A
+2018-2019,4,maccabi netanya,maccabi tel aviv,5220,2480,7700,A
+2018-2019,4,hapoel hadera,hapoel haifa,1737,1163,2900,H
+2018-2019,4,hapoel beer sheva,bnei yehuda tel aviv,13900,200,14100,D
+2018-2019,4,beitar jerusalem,bnei sakhnin,19290,710,20000,H
+2018-2019,5,maccabi petah tikva,hapoel haifa,1250,650,1900,D
+2018-2019,5,bnei sakhnin,hapoel hadera,2200,200,2400,A
+2018-2019,5,ashdod fc,maccabi netanya,652,1188,1840,A
+2018-2019,5,ironi kiryat shmona,beitar jerusalem,1580,2650,4230,H
+2018-2019,5,bnei yehuda tel aviv,hapoel raanana,928,50,978,H
+2018-2019,5,maccabi haifa,hapoel beer sheva,17823,1608,19431,D
+2018-2019,5,maccabi tel aviv,hapoel tel aviv,10935,1300,12235,D
+2018-2019,6,hapoel raanana,maccabi haifa,650,3350,4000,D
+2018-2019,6,hapoel haifa,bnei sakhnin,3202,498,3700,A
+2018-2019,6,maccabi netanya,bnei yehuda tel aviv,4900,500,5400,A
+2018-2019,6,hapoel beer sheva,maccabi petah tikva,12667,103,12770,H
+2018-2019,6,hapoel hadera,ironi kiryat shmona,1961,89,2050,H
+2018-2019,6,beitar jerusalem,maccabi tel aviv,14600,3220,17820,A
+2018-2019,6,hapoel tel aviv,ashdod fc,5740,60,5800,D
+2018-2019,7,maccabi tel aviv,hapoel hadera,10873,1250,12123,H
+2018-2019,7,ironi kiryat shmona,hapoel haifa,814,308,1122,D
+2018-2019,7,bnei yehuda tel aviv,hapoel tel aviv,2010,3005,5015,D
+2018-2019,7,hapoel beer sheva,hapoel raanana,14639,25,14664,H
+2018-2019,7,maccabi petah tikva,bnei sakhnin,592,341,933,D
+2018-2019,7,ashdod fc,beitar jerusalem,1590,3500,5090,D
+2018-2019,7,maccabi haifa,maccabi netanya,12900,1016,13916,A
+2018-2019,8,bnei sakhnin,ironi kiryat shmona,950,50,1000,A
+2018-2019,8,hapoel raanana,maccabi petah tikva,203,199,402,H
+2018-2019,8,maccabi netanya,hapoel beer sheva,5415,2006,7421,H
+2018-2019,8,beitar jerusalem,bnei yehuda tel aviv,8766,492,9258,A
+2018-2019,8,hapoel hadera,ashdod fc,1800,30,1830,H
+2018-2019,8,hapoel haifa,maccabi tel aviv,3249,2644,5893,A
+2018-2019,8,hapoel tel aviv,maccabi haifa,7149,1400,8549,A
+2018-2019,9,hapoel raanana,maccabi netanya,600,1855,2455,A
+2018-2019,9,maccabi petah tikva,ironi kiryat shmona,1250,50,1300,A
+2018-2019,9,ashdod fc,hapoel haifa,900,300,1200,A
+2018-2019,9,maccabi tel aviv,bnei sakhnin,9600,220,9820,H
+2018-2019,9,bnei yehuda tel aviv,hapoel hadera,2365,600,2965,H
+2018-2019,9,hapoel beer sheva,hapoel tel aviv,14048,1452,15500,H
+2018-2019,9,maccabi haifa,beitar jerusalem,16707,3993,20700,A
+2018-2019,10,maccabi netanya,maccabi petah tikva,5778,72,5850,A
+2018-2019,10,hapoel haifa,bnei yehuda tel aviv,3616,804,4420,A
+2018-2019,10,hapoel tel aviv,hapoel raanana,5800,50,5850,D
+2018-2019,10,hapoel hadera,maccabi haifa,2716,3720,6436,A
+2018-2019,10,ironi kiryat shmona,maccabi tel aviv,1500,1800,3300,A
+2018-2019,10,beitar jerusalem,hapoel beer sheva,15405,2513,17918,A
+2018-2019,10,bnei sakhnin,ashdod fc,1970,30,2000,H
+2018-2019,11,bnei yehuda tel aviv,bnei sakhnin,1869,246,2115,A
+2018-2019,11,ashdod fc,ironi kiryat shmona,700,50,750,H
+2018-2019,11,hapoel beer sheva,hapoel hadera,14922,250,15172,D
+2018-2019,11,maccabi haifa,hapoel haifa,27700,2288,29988,A
+2018-2019,11,maccabi petah tikva,maccabi tel aviv,1200,7250,8450,D
+2018-2019,11,hapoel raanana,beitar jerusalem,950,2500,3450,H
+2018-2019,11,maccabi netanya,hapoel tel aviv,4500,1700,6200,D
+2018-2019,12,ironi kiryat shmona,bnei yehuda tel aviv,793,151,944,A
+2018-2019,12,bnei sakhnin,maccabi haifa,1900,400,2300,A
+2018-2019,12,maccabi tel aviv,ashdod fc,8537,65,8602,H
+2018-2019,12,hapoel haifa,hapoel beer sheva,3035,719,3754,D
+2018-2019,12,hapoel hadera,hapoel raanana,1836,44,1880,D
+2018-2019,12,maccabi petah tikva,hapoel tel aviv,800,1800,2600,D
+2018-2019,12,beitar jerusalem,maccabi netanya,8173,251,8424,D
+2018-2019,13,maccabi haifa,ironi kiryat shmona,10620,80,10700,D
+2018-2019,13,ashdod fc,maccabi petah tikva,350,40,390,D
+2018-2019,13,hapoel beer sheva,bnei sakhnin,13750,250,14000,D
+2018-2019,13,bnei yehuda tel aviv,maccabi tel aviv,3000,5000,8000,A
+2018-2019,13,hapoel raanana,hapoel haifa,250,750,1000,A
+2018-2019,13,maccabi netanya,hapoel hadera,3710,650,4360,H
+2018-2019,13,hapoel tel aviv,beitar jerusalem,6361,2000,8361,A
+2018-2019,14,hapoel tel aviv,hapoel hadera,5000,400,5400,D
+2018-2019,14,hapoel raanana,bnei sakhnin,300,200,500,H
+2018-2019,14,maccabi netanya,hapoel haifa,4991,1030,6021,A
+2018-2019,14,hapoel beer sheva,ironi kiryat shmona,13625,20,13645,H
+2018-2019,14,bnei yehuda tel aviv,ashdod fc,1250,40,1290,H
+2018-2019,14,beitar jerusalem,maccabi petah tikva,7650,53,7703,D
+2018-2019,14,maccabi haifa,maccabi tel aviv,18593,3900,22493,A
+2018-2019,15,maccabi petah tikva,bnei yehuda tel aviv,920,580,1500,D
+2018-2019,15,bnei sakhnin,maccabi netanya,1158,242,1400,A
+2018-2019,15,maccabi tel aviv,hapoel beer sheva,11251,1300,12551,H
+2018-2019,15,ironi kiryat shmona,hapoel raanana,350,18,368,D
+2018-2019,15,hapoel haifa,hapoel tel aviv,2725,1125,3850,D
+2018-2019,15,ashdod fc,maccabi haifa,726,1390,2116,A
+2018-2019,15,hapoel hadera,beitar jerusalem,1800,2000,3800,A
+2018-2019,16,hapoel raanana,maccabi tel aviv,300,4300,4600,A
+2018-2019,16,maccabi netanya,ironi kiryat shmona,3300,100,3400,H
+2018-2019,16,hapoel beer sheva,ashdod fc,10954,25,10979,H
+2018-2019,16,maccabi haifa,bnei yehuda tel aviv,9935,413,10348,H
+2018-2019,16,hapoel hadera,maccabi petah tikva,1040,60,1100,H
+2018-2019,16,hapoel tel aviv,bnei sakhnin,3700,150,3850,H
+2018-2019,16,beitar jerusalem,hapoel haifa,7393,120,7513,D
+2018-2019,17,ironi kiryat shmona,hapoel tel aviv,1020,1300,2320,H
+2018-2019,17,hapoel haifa,hapoel hadera,3850,450,4300,D
+2018-2019,17,maccabi petah tikva,maccabi haifa,1200,3300,4500,A
+2018-2019,17,bnei sakhnin,beitar jerusalem,3247,1200,4447,D
+2018-2019,17,ashdod fc,hapoel raanana,310,20,330,D
+2018-2019,17,bnei yehuda tel aviv,hapoel beer sheva,1000,1200,2200,H
+2018-2019,17,maccabi tel aviv,maccabi netanya,7300,1323,8623,H
+2018-2019,18,maccabi netanya,ashdod fc,3900,30,3930,H
+2018-2019,18,hapoel raanana,bnei yehuda tel aviv,300,650,950,D
+2018-2019,18,hapoel haifa,maccabi petah tikva,3434,52,3486,H
+2018-2019,18,hapoel hadera,bnei sakhnin,1700,100,1800,H
+2018-2019,18,hapoel beer sheva,maccabi haifa,13233,1605,14838,A
+2018-2019,18,beitar jerusalem,ironi kiryat shmona,6447,38,6485,D
+2018-2019,18,hapoel tel aviv,maccabi tel aviv,7500,1005,8505,D
+2018-2019,19,bnei yehuda tel aviv,maccabi netanya,1050,1410,2460,D
+2018-2019,19,bnei sakhnin,hapoel haifa,1240,250,1490,A
+2018-2019,19,maccabi haifa,hapoel raanana,17208,50,17258,D
+2018-2019,19,maccabi petah tikva,hapoel beer sheva,600,900,1500,A
+2018-2019,19,ironi kiryat shmona,hapoel hadera,600,150,750,H
+2018-2019,19,ashdod fc,hapoel tel aviv,1000,1600,2600,D
+2018-2019,19,maccabi tel aviv,beitar jerusalem,10550,1280,11830,H
+2018-2019,20,hapoel tel aviv,bnei yehuda tel aviv,5514,726,6240,H
+2018-2019,20,hapoel haifa,ironi kiryat shmona,4270,80,4350,D
+2018-2019,20,hapoel raanana,hapoel beer sheva,398,1509,1907,H
+2018-2019,20,beitar jerusalem,ashdod fc,7164,36,7200,H
+2018-2019,20,bnei sakhnin,maccabi petah tikva,2200,30,2230,A
+2018-2019,20,maccabi netanya,maccabi haifa,5440,3690,9130,D
+2018-2019,20,hapoel hadera,maccabi tel aviv,1651,3080,4731,A
+2018-2019,21,maccabi petah tikva,hapoel raanana,1950,50,2000,D
+2018-2019,21,ashdod fc,hapoel hadera,690,350,1040,A
+2018-2019,21,hapoel beer sheva,maccabi netanya,10250,750,11000,D
+2018-2019,21,bnei yehuda tel aviv,beitar jerusalem,1900,5500,7400,A
+2018-2019,21,ironi kiryat shmona,bnei sakhnin,996,258,1254,D
+2018-2019,21,maccabi tel aviv,hapoel haifa,8300,1160,9460,D
+2018-2019,21,maccabi haifa,hapoel tel aviv,15323,2583,17906,H
+2018-2019,22,hapoel haifa,ashdod fc,4321,26,4347,A
+2018-2019,22,ironi kiryat shmona,maccabi petah tikva,500,40,540,A
+2018-2019,22,maccabi netanya,hapoel raanana,5070,30,5100,H
+2018-2019,22,hapoel tel aviv,hapoel beer sheva,5800,1100,6900,H
+2018-2019,22,hapoel hadera,bnei yehuda tel aviv,100,200,300,A
+2018-2019,22,beitar jerusalem,maccabi haifa,14128,3889,18017,D
+2018-2019,22,bnei sakhnin,maccabi tel aviv,0,0,0,D
+2018-2019,23,hapoel raanana,hapoel tel aviv,436,1829,2265,D
+2018-2019,23,ashdod fc,bnei sakhnin,350,300,650,H
+2018-2019,23,bnei yehuda tel aviv,hapoel haifa,0,600,600,H
+2018-2019,23,maccabi tel aviv,ironi kiryat shmona,6700,72,6772,H
+2018-2019,23,maccabi petah tikva,maccabi netanya,500,1200,1700,A
+2018-2019,23,maccabi haifa,hapoel hadera,13466,428,13894,H
+2018-2019,23,hapoel beer sheva,beitar jerusalem,13750,1750,15500,H
+2018-2019,24,maccabi tel aviv,maccabi petah tikva,11500,98,11598,H
+2018-2019,24,bnei sakhnin,bnei yehuda tel aviv,0,0,0,H
+2018-2019,24,hapoel tel aviv,maccabi netanya,6045,1450,7495,A
+2018-2019,24,beitar jerusalem,hapoel raanana,6000,27,6027,H
+2018-2019,24,ironi kiryat shmona,ashdod fc,589,9,598,D
+2018-2019,24,hapoel hadera,hapoel beer sheva,2491,1160,3651,A
+2018-2019,24,hapoel haifa,maccabi haifa,8000,17100,25100,D
+2018-2019,25,maccabi haifa,bnei sakhnin,14865,843,15708,H
+2018-2019,25,bnei yehuda tel aviv,ironi kiryat shmona,1080,20,1100,A
+2018-2019,25,ashdod fc,maccabi tel aviv,850,2500,3350,A
+2018-2019,25,maccabi netanya,beitar jerusalem,6000,2400,8400,H
+2018-2019,25,hapoel raanana,hapoel hadera,350,260,610,H
+2018-2019,25,hapoel tel aviv,maccabi petah tikva,4545,130,4675,H
+2018-2019,25,hapoel beer sheva,hapoel haifa,12617,522,13139,H
+2018-2019,26,hapoel hadera,maccabi netanya,2010,2840,4850,D
+2018-2019,26,ironi kiryat shmona,maccabi haifa,1000,1500,2500,A
+2018-2019,26,beitar jerusalem,hapoel tel aviv,12202,2226,14428,A
+2018-2019,26,hapoel haifa,hapoel raanana,3550,50,3600,D
+2018-2019,26,maccabi petah tikva,ashdod fc,1000,450,1450,H
+2018-2019,26,bnei sakhnin,hapoel beer sheva,1600,200,1800,D
+2018-2019,26,maccabi tel aviv,bnei yehuda tel aviv,7500,250,7750,H
+2018-2019,27,maccabi tel aviv,hapoel hadera,6200,300,6500,H
+2018-2019,27,hapoel raanana,bnei sakhnin,195,116,311,D
+2018-2019,27,hapoel tel aviv,ashdod fc,4350,70,4420,H
+2018-2019,27,maccabi haifa,bnei yehuda tel aviv,10832,131,10963,A
+2018-2019,27,ironi kiryat shmona,maccabi petah tikva,470,17,487,A
+2018-2019,27,maccabi netanya,hapoel beer sheva,4450,650,5100,A
+2018-2019,27,hapoel haifa,beitar jerusalem,1836,1064,2900,D
+2018-2019,28,hapoel hadera,hapoel beer sheva,750,1100,1850,A
+2018-2019,28,ashdod fc,ironi kiryat shmona,228,30,258,H
+2018-2019,28,bnei yehuda tel aviv,maccabi netanya,1060,850,1910,D
+2018-2019,28,maccabi tel aviv,maccabi haifa,11000,1280,12280,H
+2018-2019,28,maccabi petah tikva,hapoel raanana,420,40,460,D
+2018-2019,28,beitar jerusalem,bnei sakhnin,5000,131,5131,D
+2018-2019,28,hapoel haifa,hapoel tel aviv,2260,990,3250,D
+2018-2019,29,hapoel beer sheva,bnei yehuda tel aviv,12900,50,12950,H
+2018-2019,29,ironi kiryat shmona,hapoel haifa,999,157,1156,H
+2018-2019,29,bnei sakhnin,maccabi petah tikva,2000,30,2030,D
+2018-2019,29,maccabi haifa,hapoel hadera,9517,103,9620,A
+2018-2019,29,hapoel raanana,ashdod fc,460,40,500,A
+2018-2019,29,maccabi netanya,maccabi tel aviv,4100,850,4950,A
+2018-2019,29,hapoel tel aviv,beitar jerusalem,6990,1110,8100,A
+2018-2019,30,hapoel haifa,hapoel raanana,2061,39,2100,A
+2018-2019,30,hapoel tel aviv,ironi kiryat shmona,4450,50,4500,D
+2018-2019,30,ashdod fc,bnei sakhnin,640,40,680,A
+2018-2019,30,beitar jerusalem,maccabi petah tikva,4789,20,4809,H
+2018-2019,30,hapoel hadera,bnei yehuda tel aviv,864,126,990,A
+2018-2019,30,maccabi haifa,maccabi netanya,10575,583,11158,H
+2018-2019,30,maccabi tel aviv,hapoel beer sheva,8246,1107,9353,D
+2018-2019,31,hapoel beer sheva,maccabi haifa,14152,1600,15752,A
+2018-2019,31,maccabi netanya,hapoel hadera,3750,200,3950,H
+2018-2019,31,bnei yehuda tel aviv,maccabi tel aviv,1900,3100,5000,A
+2018-2019,31,maccabi petah tikva,ashdod fc,653,47,700,A
+2018-2019,31,hapoel raanana,hapoel tel aviv,306,859,1165,H
+2018-2019,31,ironi kiryat shmona,beitar jerusalem,350,317,667,A
+2018-2019,31,bnei sakhnin,hapoel haifa,1000,150,1150,A
+2018-2019,32,hapoel hadera,maccabi tel aviv,700,1800,2500,A
+2018-2019,32,hapoel beer sheva,maccabi netanya,11200,341,11541,A
+2018-2019,32,bnei yehuda tel aviv,maccabi haifa,1400,4100,5500,D
+2018-2019,32,beitar jerusalem,ashdod fc,11400,83,11483,A
+2018-2019,32,ironi kiryat shmona,hapoel raanana,1300,15,1315,D
+2018-2019,32,hapoel haifa,maccabi petah tikva,2430,55,2485,A
+2018-2019,32,hapoel tel aviv,bnei sakhnin,4566,30,4596,H
+2018-2019,33,hapoel hadera,maccabi netanya,600,1000,1600,A
+2018-2019,33,maccabi tel aviv,bnei yehuda tel aviv,4700,60,4760,A
+2018-2019,33,maccabi haifa,hapoel beer sheva,13776,471,14247,H
+2018-2019,33,hapoel raanana,beitar jerusalem,514,654,1168,A
+2018-2019,33,maccabi petah tikva,hapoel tel aviv,1300,850,2150,A
+2018-2019,33,bnei sakhnin,ironi kiryat shmona,60,190,250,A
+2018-2019,33,ashdod fc,hapoel haifa,1973,183,2156,H
+2018-2019,34,maccabi tel aviv,maccabi netanya,7752,980,8732,H
+2018-2019,34,bnei yehuda tel aviv,hapoel beer sheva,1025,975,2000,A
+2018-2019,34,hapoel hadera,maccabi haifa,1254,2433,3687,H
+2018-2019,35,maccabi haifa,maccabi tel aviv,14741,1500,16241,D
+2018-2019,35,hapoel beer sheva,hapoel hadera,9208,30,9238,H
+2018-2019,35,maccabi netanya,bnei yehuda tel aviv,2950,250,3200,A
+2018-2019,36,maccabi netanya,maccabi haifa,0,0,0,A
+2018-2019,36,hapoel beer sheva,maccabi tel aviv,0,0,0,A
+2018-2019,36,bnei yehuda tel aviv,hapoel hadera,0,0,0,A
+2019-2020,1,maccabi haifa,hapoel raanana,17602,30,17632,H
+2019-2020,1,hapoel hadera,ashdod fc,856,117,973,D
+2019-2020,1,sektzia nes ziona,maccabi tel aviv,1000,4654,5654,A
+2019-2020,1,hapoel kfar sava,hapoel haifa,1023,894,1917,A
+2019-2020,1,bnei yehuda tel aviv,ironi kiryat shmona,3123,195,3318,H
+2019-2020,1,beitar jerusalem,hapoel beer sheva,16710,1958,18668,D
+2019-2020,1,hapoel tel aviv,maccabi netanya,15400,3200,18600,D
+2019-2020,2,ashdod fc,hapoel tel aviv,1153,2100,3253,H
+2019-2020,2,maccabi netanya,sektzia nes ziona,4406,120,4526,H
+2019-2020,2,hapoel haifa,maccabi haifa,6900,16500,23400,D
+2019-2020,2,hapoel beer sheva,hapoel hadera,11420,60,11480,H
+2019-2020,2,hapoel raanana,beitar jerusalem,835,6679,7514,H
+2019-2020,2,maccabi tel aviv,bnei yehuda tel aviv,25093,1420,26513,D
+2019-2020,2,ironi kiryat shmona,hapoel kfar sava,800,55,855,A
+2019-2020,3,maccabi haifa,ironi kiryat shmona,18037,87,18124,H
+2019-2020,3,hapoel hadera,hapoel raanana,1106,65,1171,H
+2019-2020,3,hapoel tel aviv,sektzia nes ziona,10108,228,10336,D
+2019-2020,3,hapoel kfar sava,maccabi tel aviv,1466,3149,4615,A
+2019-2020,3,bnei yehuda tel aviv,maccabi netanya,1760,1100,2860,D
+2019-2020,3,ashdod fc,hapoel beer sheva,1400,2000,3400,D
+2019-2020,3,beitar jerusalem,hapoel haifa,9957,759,10716,A
+2019-2020,4,maccabi netanya,hapoel kfar sava,5100,300,5400,D
+2019-2020,4,sektzia nes ziona,bnei yehuda tel aviv,325,602,927,A
+2019-2020,4,ironi kiryat shmona,beitar jerusalem,1200,1400,2600,A
+2019-2020,4,maccabi tel aviv,maccabi haifa,22130,4104,26234,H
+2019-2020,4,hapoel raanana,ashdod fc,190,190,380,D
+2019-2020,4,hapoel haifa,hapoel hadera,2920,280,3200,A
+2019-2020,4,hapoel beer sheva,hapoel tel aviv,10947,1340,12287,H
+2019-2020,5,hapoel kfar sava,sektzia nes ziona,710,80,790,D
+2019-2020,5,maccabi haifa,maccabi netanya,14400,773,15173,H
+2019-2020,5,hapoel hadera,ironi kiryat shmona,1550,57,1607,D
+2019-2020,5,ashdod fc,hapoel haifa,900,450,1350,D
+2019-2020,5,hapoel tel aviv,bnei yehuda tel aviv,9490,1390,10880,D
+2019-2020,5,beitar jerusalem,maccabi tel aviv,12736,3199,15935,A
+2019-2020,5,hapoel beer sheva,hapoel raanana,11421,26,11447,H
+2019-2020,6,maccabi tel aviv,hapoel hadera,24029,800,24829,D
+2019-2020,6,sektzia nes ziona,maccabi haifa,800,9726,10526,A
+2019-2020,6,hapoel haifa,hapoel beer sheva,3668,932,4600,A
+2019-2020,6,bnei yehuda tel aviv,hapoel kfar sava,1290,250,1540,A
+2019-2020,6,hapoel raanana,hapoel tel aviv,800,1700,2500,D
+2019-2020,6,maccabi netanya,beitar jerusalem,5376,2200,7576,A
+2019-2020,6,ironi kiryat shmona,ashdod fc,550,30,580,H
+2019-2020,7,hapoel tel aviv,hapoel kfar sava,9310,740,10050,H
+2019-2020,7,hapoel beer sheva,ironi kiryat shmona,12482,59,12541,H
+2019-2020,7,hapoel hadera,maccabi netanya,1524,1335,2859,H
+2019-2020,7,sektzia nes ziona,beitar jerusalem,820,6159,6979,A
+2019-2020,7,hapoel raanana,hapoel haifa,376,594,970,D
+2019-2020,7,ashdod fc,maccabi tel aviv,1200,3400,4600,A
+2019-2020,7,maccabi haifa,bnei yehuda tel aviv,23839,438,24277,D
+2019-2020,8,hapoel haifa,hapoel tel aviv,3522,2580,6102,H
+2019-2020,8,ironi kiryat shmona,hapoel raanana,500,30,530,H
+2019-2020,8,maccabi netanya,ashdod fc,4209,73,4282,A
+2019-2020,8,hapoel kfar sava,maccabi haifa,1434,5580,7014,A
+2019-2020,8,sektzia nes ziona,hapoel hadera,231,307,538,D
+2019-2020,8,bnei yehuda tel aviv,beitar jerusalem,2706,6197,8903,A
+2019-2020,8,maccabi tel aviv,hapoel beer sheva,22783,4783,27566,H
+2019-2020,9,hapoel haifa,ironi kiryat shmona,3150,120,3270,H
+2019-2020,9,hapoel raanana,maccabi tel aviv,400,6672,7072,A
+2019-2020,9,hapoel hadera,bnei yehuda tel aviv,1000,389,1389,D
+2019-2020,9,beitar jerusalem,hapoel kfar sava,9974,174,10148,H
+2019-2020,9,ashdod fc,sektzia nes ziona,840,60,900,D
+2019-2020,9,hapoel beer sheva,maccabi netanya,10968,307,11275,H
+2019-2020,9,hapoel tel aviv,maccabi haifa,11422,7557,18979,A
+2019-2020,10,ironi kiryat shmona,hapoel tel aviv,1673,1358,3031,A
+2019-2020,10,sektzia nes ziona,hapoel beer sheva,462,3420,3882,H
+2019-2020,10,maccabi netanya,hapoel raanana,5300,80,5380,H
+2019-2020,10,maccabi tel aviv,hapoel haifa,21721,1404,23125,H
+2019-2020,10,hapoel kfar sava,hapoel hadera,1181,196,1377,D
+2019-2020,10,bnei yehuda tel aviv,ashdod fc,1114,110,1224,H
+2019-2020,10,maccabi haifa,beitar jerusalem,26132,2900,29032,H
+2019-2020,11,hapoel haifa,maccabi netanya,3650,1000,4650,A
+2019-2020,11,hapoel raanana,sektzia nes ziona,437,180,617,D
+2019-2020,11,ironi kiryat shmona,maccabi tel aviv,1412,2847,4259,A
+2019-2020,11,ashdod fc,hapoel kfar sava,900,200,1100,D
+2019-2020,11,hapoel beer sheva,bnei yehuda tel aviv,11419,221,11640,A
+2019-2020,11,hapoel hadera,maccabi haifa,1766,6656,8422,A
+2019-2020,11,hapoel tel aviv,beitar jerusalem,11655,7439,19094,A
+2019-2020,12,bnei yehuda tel aviv,hapoel raanana,1213,222,1435,D
+2019-2020,12,maccabi netanya,ironi kiryat shmona,4435,73,4508,H
+2019-2020,12,hapoel kfar sava,hapoel beer sheva,884,1056,1940,A
+2019-2020,12,sektzia nes ziona,hapoel haifa,156,339,495,A
+2019-2020,12,beitar jerusalem,hapoel hadera,7345,105,7450,H
+2019-2020,12,maccabi haifa,ashdod fc,16117,40,16157,D
+2019-2020,12,hapoel tel aviv,maccabi tel aviv,14100,7700,21800,A
+2019-2020,13,hapoel raanana,hapoel kfar sava,387,453,840,D
+2019-2020,13,hapoel haifa,bnei yehuda tel aviv,2780,270,3050,H
+2019-2020,13,ironi kiryat shmona,sektzia nes ziona,642,26,668,H
+2019-2020,13,maccabi tel aviv,maccabi netanya,20157,1362,21519,D
+2019-2020,13,hapoel hadera,hapoel tel aviv,937,1044,1981,A
+2019-2020,13,ashdod fc,beitar jerusalem,800,2646,3446,D
+2019-2020,13,hapoel beer sheva,maccabi haifa,12600,1900,14500,A
+2019-2020,14,maccabi tel aviv,sektzia nes ziona,21015,172,21187,D
+2019-2020,14,ironi kiryat shmona,bnei yehuda tel aviv,931,132,1063,H
+2019-2020,14,hapoel haifa,hapoel kfar sava,2935,95,3030,A
+2019-2020,14,hapoel raanana,maccabi haifa,1137,6782,7919,D
+2019-2020,14,ashdod fc,hapoel hadera,810,80,890,A
+2019-2020,14,maccabi netanya,hapoel tel aviv,4978,1550,6528,H
+2019-2020,14,hapoel beer sheva,beitar jerusalem,13400,1900,15300,A
+2019-2020,15,hapoel kfar sava,ironi kiryat shmona,535,180,715,A
+2019-2020,15,hapoel hadera,hapoel beer sheva,344,778,1122,A
+2019-2020,15,maccabi haifa,hapoel haifa,25988,2189,28177,H
+2019-2020,15,bnei yehuda tel aviv,maccabi tel aviv,1550,4200,5750,A
+2019-2020,15,sektzia nes ziona,maccabi netanya,171,826,997,H
+2019-2020,15,hapoel tel aviv,ashdod fc,3076,356,3432,D
+2019-2020,15,beitar jerusalem,hapoel raanana,4988,17,5005,H
+2019-2020,16,maccabi tel aviv,hapoel kfar sava,9296,113,9409,H
+2019-2020,16,ironi kiryat shmona,maccabi haifa,726,1523,2249,A
+2019-2020,16,hapoel raanana,hapoel hadera,212,113,325,D
+2019-2020,16,hapoel beer sheva,ashdod fc,9169,49,9218,H
+2019-2020,16,maccabi netanya,bnei yehuda tel aviv,3925,136,4061,A
+2019-2020,16,sektzia nes ziona,hapoel tel aviv,458,1833,2291,A
+2019-2020,16,hapoel haifa,beitar jerusalem,2214,3942,6156,A
+2019-2020,17,hapoel kfar sava,maccabi netanya,711,490,1201,A
+2019-2020,17,hapoel hadera,hapoel haifa,594,176,770,H
+2019-2020,17,beitar jerusalem,ironi kiryat shmona,5526,15,5541,D
+2019-2020,17,ashdod fc,hapoel raanana,960,11,971,H
+2019-2020,17,hapoel tel aviv,hapoel beer sheva,4050,500,4550,H
+2019-2020,17,bnei yehuda tel aviv,sektzia nes ziona,576,114,690,A
+2019-2020,17,maccabi haifa,maccabi tel aviv,25939,4132,30071,A
+2019-2020,18,hapoel haifa,ashdod fc,1840,68,1908,H
+2019-2020,18,hapoel raanana,hapoel beer sheva,479,1221,1700,H
+2019-2020,18,ironi kiryat shmona,hapoel hadera,788,73,861,A
+2019-2020,18,maccabi netanya,maccabi haifa,5436,3929,9365,A
+2019-2020,18,sektzia nes ziona,hapoel kfar sava,251,334,585,A
+2019-2020,18,bnei yehuda tel aviv,hapoel tel aviv,1200,3200,4400,A
+2019-2020,18,maccabi tel aviv,beitar jerusalem,15248,5200,20448,D
+2019-2020,19,ashdod fc,ironi kiryat shmona,535,15,550,H
+2019-2020,19,maccabi haifa,sektzia nes ziona,18199,54,18253,H
+2019-2020,19,hapoel hadera,maccabi tel aviv,1036,3500,4536,A
+2019-2020,19,hapoel tel aviv,hapoel raanana,4356,75,4431,H
+2019-2020,19,hapoel kfar sava,bnei yehuda tel aviv,716,196,912,A
+2019-2020,19,hapoel beer sheva,hapoel haifa,8500,151,8651,H
+2019-2020,19,beitar jerusalem,maccabi netanya,5532,147,5679,H
+2019-2020,20,hapoel kfar sava,hapoel tel aviv,943,6500,7443,A
+2019-2020,20,ironi kiryat shmona,hapoel beer sheva,922,254,1176,D
+2019-2020,20,hapoel haifa,hapoel raanana,1890,30,1920,D
+2019-2020,20,maccabi tel aviv,ashdod fc,15801,141,15942,H
+2019-2020,20,maccabi netanya,hapoel hadera,3486,226,3712,H
+2019-2020,20,beitar jerusalem,sektzia nes ziona,7750,11,7761,H
+2019-2020,20,bnei yehuda tel aviv,maccabi haifa,1300,7400,8700,A
+2019-2020,21,hapoel raanana,ironi kiryat shmona,290,91,381,D
+2019-2020,21,hapoel beer sheva,maccabi tel aviv,11543,1655,13198,D
+2019-2020,21,ashdod fc,maccabi netanya,756,642,1398,D
+2019-2020,21,maccabi haifa,hapoel kfar sava,19802,177,19979,A
+2019-2020,21,hapoel hadera,sektzia nes ziona,1250,30,1280,H
+2019-2020,21,hapoel tel aviv,hapoel haifa,9897,449,10346,A
+2019-2020,21,beitar jerusalem,bnei yehuda tel aviv,8989,172,9161,A
+2019-2020,22,maccabi tel aviv,hapoel raanana,15262,200,15462,H
+2019-2020,22,ironi kiryat shmona,hapoel haifa,476,123,599,A
+2019-2020,22,sektzia nes ziona,ashdod fc,128,52,180,A
+2019-2020,22,maccabi haifa,hapoel tel aviv,18959,2635,21594,H
+2019-2020,22,bnei yehuda tel aviv,hapoel hadera,1239,122,1361,A
+2019-2020,22,maccabi netanya,hapoel beer sheva,3919,683,4602,D
+2019-2020,22,hapoel kfar sava,beitar jerusalem,1254,3577,4831,H
+2019-2020,23,hapoel tel aviv,ironi kiryat shmona,6018,15,6033,H
+2019-2020,23,hapoel raanana,maccabi netanya,559,584,1143,A
+2019-2020,23,hapoel hadera,hapoel kfar sava,957,463,1420,H
+2019-2020,23,hapoel haifa,maccabi tel aviv,2080,2363,4443,D
+2019-2020,23,ashdod fc,bnei yehuda tel aviv,620,120,740,A
+2019-2020,23,hapoel beer sheva,sektzia nes ziona,7198,23,7221,H
+2019-2020,23,beitar jerusalem,maccabi haifa,11800,6200,18000,H
+2019-2020,24,maccabi netanya,hapoel haifa,6429,1190,7619,D
+2019-2020,24,bnei yehuda tel aviv,hapoel beer sheva,1800,2600,4400,A
+2019-2020,24,hapoel kfar sava,ashdod fc,848,43,891,A
+2019-2020,24,maccabi haifa,hapoel hadera,16944,413,17357,H
+2019-2020,24,sektzia nes ziona,hapoel raanana,187,61,248,H
+2019-2020,24,maccabi tel aviv,ironi kiryat shmona,15391,499,15890,H
+2019-2020,24,beitar jerusalem,hapoel tel aviv,19519,1981,21500,A
+2019-2020,25,ironi kiryat shmona,maccabi netanya,653,372,1025,H
+2019-2020,25,ashdod fc,maccabi haifa,1700,3800,5500,A
+2019-2020,25,hapoel haifa,sektzia nes ziona,2652,59,2711,H
+2019-2020,25,hapoel hadera,beitar jerusalem,1282,2620,3902,A
+2019-2020,25,hapoel raanana,bnei yehuda tel aviv,569,299,868,A
+2019-2020,25,hapoel beer sheva,hapoel kfar sava,2326,371,2697,H
+2019-2020,25,maccabi tel aviv,hapoel tel aviv,21346,4965,26311,H
+2019-2020,26,hapoel kfar sava,hapoel raanana,1337,50,1387,H
+2019-2020,26,maccabi netanya,maccabi tel aviv,2520,4083,6603,A
+2019-2020,26,hapoel tel aviv,hapoel hadera,9802,471,10273,H
+2019-2020,26,bnei yehuda tel aviv,hapoel haifa,1864,1119,2983,D
+2019-2020,26,sektzia nes ziona,ironi kiryat shmona,249,136,385,H
+2019-2020,26,beitar jerusalem,ashdod fc,4770,73,4843,H
+2019-2020,26,maccabi haifa,hapoel beer sheva,10210,826,11036,H
